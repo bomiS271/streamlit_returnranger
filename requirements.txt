@@ -1,0 +1,9 @@
+streamlit
+pydantic
+langchain-upstage
+langchain-chroma
+langchain-community
+langchain-text-splitters
+python-dotenv
+transformers 
+predibase
